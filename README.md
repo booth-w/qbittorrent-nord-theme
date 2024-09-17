@@ -2,6 +2,10 @@
 
 This is a nord theme for qBittorrent based on the [nord colour palette](https://www.nordtheme.com/) and is a fork of [Mahdi Mirzade's themes](https://github.com/mahdimirzade/qbittorrent) with only the colours changed.
 
+## Screenshot
+
+![screenshot](screenshot.png)
+
 ## Installation
 
 The theme can be installed by downloading the `nord.qbtheme` file from the [releases page](https://github.com/booth-w/qbittorrent-nord-theme/releases) and importing it into qBittorrent.
