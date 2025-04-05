@@ -30,7 +30,7 @@ QMenuBar::item:selected {
 
 QMenuBar::item:pressed {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 /*
@@ -52,7 +52,7 @@ QMenu::item {
 
 QMenu::item:selected {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QMenu::separator {
@@ -101,7 +101,7 @@ QToolButton:hover {
 
 QToolButton:pressed {
 	background: #222;
-	color: #2E3440;
+	color: #5E81AC;
 	padding: 0;
 }
 
@@ -195,7 +195,7 @@ QTabBar::tab:top:hover {
 
 QTabBar::tab:top:selected {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 /*
@@ -220,13 +220,13 @@ QListView::item:hover {
 QListView::item:selected:active {
 	outline: none;
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 	padding: 0px;
 }
 
 QListView::item:selected:!active {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 	padding: 0px;
 }
 
@@ -268,18 +268,18 @@ QTreeView::item:hover {
 }
 
 QTreeView::item:pressed {
-	background: #4C566A;
+	background: #5E81AC;
 	padding: 0px;
 }
 
 QTreeView::item:selected {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 	padding: 0px;
 }
 
 QTreeView:disabled {
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QAbstractItemView {
@@ -401,17 +401,17 @@ QPushButton:hover {
 
 QPushButton:focus {
 	outline: none;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QPushButton:pressed {
 	padding: 5px 10px;
 	border: none;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QPushButton:disabled {
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 /*
@@ -422,7 +422,7 @@ QLineEdit,
 QLineEdit:read-only
 {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 	border: none;
 	padding: 4px;
 }
@@ -430,7 +430,7 @@ QLineEdit:read-only
 QLineEdit:disabled,
 QLineEdit:disabled:read-only
 {
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 /*
@@ -460,7 +460,7 @@ QDialog {
 */
 
 QCheckBox:disabled {
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 /*
@@ -475,7 +475,7 @@ QComboBox {
 
 QComboBox:focus {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QComboBox:disabled {
@@ -484,14 +484,14 @@ QComboBox:disabled {
 
 QComboBox:on {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QComboBox QAbstractItemView {
 	background: #2E3440;
-	color: #4C566A;
+	color: #5E81AC;
 	selection-background-color: #2E3440;
-	selection-color: #4C566A;
+	selection-color: #5E81AC;
 	outline: none;
 }
 
@@ -515,12 +515,12 @@ QSpinBox {
 }
 
 QSpinBox:disabled {
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 QSpinBox:focus {
 	background: #4C566A;
-	color: #2E3440;
+	color: #5E81AC;
 }
 
 /*
@@ -551,7 +551,7 @@ QGroupBox QCheckBox {
 }
 
 QGroupBox::title:disabled {
-	color: #4C566A;
+	color: #5E81AC;
 }
 
 TransferListWidget {
