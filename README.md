@@ -10,6 +10,6 @@ This is a nord theme for qBittorrent based on the [nord colour palette](https://
 
 The theme can be installed by downloading the `nord.qbtheme` file from the [releases page](https://github.com/booth-w/qbittorrent-nord-theme/releases) and importing it into qBittorrent.
 
-The qbtheme file can also be compiled with `rcc nord.qrc -o nord.qbtheme --binary`.
+The qbtheme file can also be compiled with `rcc src/nord.qrc -o nord.qbtheme --binary`.
 
 In qBittorrent, go to `Tools` -> `Preferences` -> `Behaviour` -> `Interface` -> `UI Theme file` and select the `nord.qbtheme` file.
